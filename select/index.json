@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Lihat Kebunku (Taman Bunga)",
+  "base_artist": "Aku Jeje",
+  "createdAt": "2026-03-24T10:17:36.657151Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lihat Kebunku (Taman Bunga)",
+      "artist": "Aku Jeje",
+      "has_synced": false,
+      "path": "select/01_Lihat_Kebunku_(Taman_Bunga)_Aku_Jeje.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lihat Kebunku (Taman Bunga)",
+      "artist": "Aku Jeje",
+      "has_synced": true,
+      "path": "select/02_Lihat_Kebunku_(Taman_Bunga)_Aku_Jeje.lrc"
+    }
+  ]
+}
